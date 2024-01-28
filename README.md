@@ -4,9 +4,10 @@ I'm a passionate and creative WordPress Developer working remotely. With a lot o
 
 ## 🚀 My Expertise
 
-- **Web Development:** Crafting responsive and dynamic websites using WordPress, PHP, Sql, Rest API, Javascript, CSS & SCSS, React, HTML, Elementor, and Gutenberg.
+- **Web Development:** Crafting responsive and dynamic websites using WordPress, PHP, Sql, Rest API, Node.js, Javascript, CSS & SCSS, React, HTML, Elementor, and Gutenberg.
 - **WordPress:** Transforming visions into customized WordPress solutions.
-- **Frontend Magic:** Building delightful user interfaces with HTML, CSS, and JavaScript.
+- **Frontend Magic:** Building delightful user interfaces with HTML, PHP, SCSS, and JavaScript.
+-  **Backend Hit:** Interacting with the database with SQL.
 
 ## 🌟 🌱 What I'm Up To
 
