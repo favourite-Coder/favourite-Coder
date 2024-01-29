@@ -22,7 +22,7 @@ She/Her
 ## 📬  How to reach me? Let's Connect!
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favour-gabriel08/)
-- **Portfolio:** [My Portfolio](https://favouritecoder.com)
+- **Portfolio:** [My Portfolio](https://favouritecoder.netlify.app/)
 
  ## ⚡ Fun fact:  
  I came from the other side of the world
