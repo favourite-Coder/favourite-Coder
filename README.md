@@ -13,7 +13,7 @@ I'm a passionate and creative WordPress Developer working remotely. With a lot o
 
 ## 🌟 🌱 What I'm Up To
 
-- 🌐 Currently working on Backend projects.
+- 🌐 Currently working on wordpress projects.
 - 📘 Learning more frameworks to enhance my skills.
 - 🚀 Exploring new opportunities and collaborations.
 - 💞️ I’m looking to collaborate on bigger projects 
@@ -23,7 +23,7 @@ She/Her
 
 ## 📬  How to reach me? Let's Connect!
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favour-gabriel08/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favour-gabriel0/)
 - **Portfolio:** [My Portfolio](https://favouritecoder.netlify.app/)
 
  ## ⚡ Fun fact:  
