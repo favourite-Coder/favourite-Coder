@@ -1,33 +1,56 @@
-# 👋 Hello, I'm your @favourite-Coder | Favour Gabriel!
+👋 Hello, I'm your @favourite-Coder | Favour Gabriel!
+I'm a passionate and creative WordPress Developer working remotely — now expanding my horizons into the world of Cybersecurity 🛡️.
+With a deep love for programming, design, and digital problem-solving, I enjoy turning ideas into secure, scalable, and user-centered solutions.
 
-I'm a passionate and creative WordPress Developer working remotely. With a lot of love for programming, I enjoy turning ideas into digital solutions.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 My Expertise
+## - 💻 My Expertise
 
-- **Web Development:** Crafting responsive and dynamic websites using WordPress, PHP, Sql, Rest API, Node.js, Javascript, CSS & SCSS, React, HTML, Elementor, and Gutenberg.
-- **WordPress:** Transforming visions into customized WordPress solutions with Gutenberg, Elementor, and PHP.
-- **Frontend Magic:** Building delightful user interfaces with HTML, SASS, and JavaScript.
-- **Backend Hit:** Interacting with the database with PHP & SQL.
-- **Graphics Design:** Adobe suites, photoshop, canvas, premiere pro, illustrator
-- **Digital Marketing:** Search Engine Optimization SEO
+- Web Development: Building responsive and dynamic websites using WordPress, HTML, CSS PHP, JavaScript, Elementor, and Gutenberg.
 
-## 🌟 🌱 What I'm Up To
+- WordPress Engineering and Managemnt: Transforming visions into custom WordPress solutions — blending creativity with performance and security.
 
-- 🌐 Currently working on wordpress projects.
-- 📘 Learning more frameworks to enhance my skills.
-- 🚀 Exploring new opportunities and collaborations.
-- 💞️ I’m looking to collaborate on bigger projects 
+- Backend Logic: Handling data flow, server communication, and integration using PHP and SQL.
 
+- Graphics Design: Skilled in Adobe Suite and Figma.
+
+ - Certified UI/UX: ## Focused on web performance optimization to create seamless user experiences.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+ ## 🧠 What I’m Exploring Now 
+
+- 🔐 Diving into Cybersecurity, focusing on Blue Team defense, threat analysis, incident response, and risk management.
+
+- 🤖 Exploring how AI is transforming security operations — from threat detection to automated response.
+
+- 🌐 Integrating secure-by-design principles into every web project.
+
+- 📘 Actively documenting real-world cybersecurity exercises, playbooks, and incident simulations on my GitHub.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+## - 💞️ Let’s Collaborate
+
+I’m open to projects that bridge development, security, and AI — from building secure web apps to creating cybersecurity automations or threat-detection dashboards.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+✨ Feel free to explore my repositories and connect! 
 ## - 😄 Pronouns: 
 She/Her
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📬  How to reach me? Let's Connect!
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favour-gabriel0/)
-- **Portfolio:** [My Portfolio](https://favouritecoder.netlify.app/)
+- **Portfolio:** [My Portfolio] (Under development - Coming SOoon)
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
  ## ⚡ Fun fact:  
  I came from the other side of the world
 
-Feel free to explore my repositories and connect with me! Let's create something awesome together always. ✨
+Feel free to explore my repositories and connect with me! Let’s create something awesome — and secure — together. ✨
 
