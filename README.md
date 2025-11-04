@@ -1,4 +1,8 @@
 👋 Hello, I'm your @favourite-Coder | Favour Gabriel!
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 I'm a passionate and creative WordPress Developer working remotely — now expanding my horizons into the world of Cybersecurity 🛡️.
 With a deep love for programming, design, and digital problem-solving, I enjoy turning ideas into secure, scalable, and user-centered solutions.
 
