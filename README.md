@@ -1,4 +1,4 @@
-👋 Hello, I'm your @favourite-Coder | Favour Gabriel!
+👋 Hello, I'm your @favourite | Favour Gabriel!
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -48,8 +48,8 @@ She/Her
 
 ## 📬  How to reach me? Let's Connect!
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favour-gabriel0/)
-- **Portfolio:** [My Portfolio] (Under development - Coming SOoon)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/favogab/)
+- **Portfolio:** [My Portfolio](https://favogab.com/)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
